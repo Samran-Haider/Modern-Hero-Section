@@ -1,2 +1,2 @@
 # Modern-Hero-Section
-Clean &amp; Bold Hero Section / Cover HTML &amp; CSS Code
+Clean &amp; Bold Hero Section / Cover HTML, CSS &amp; JS Code
